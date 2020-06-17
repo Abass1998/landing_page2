@@ -1,0 +1,99 @@
+.container
+{
+	/*border:2px solid black;*/
+	height:550px;
+	width:100%;
+}
+.box_2
+{
+	/*border:2px solid pink;*/
+	height:505px;
+	width:100%;
+	margin-top:30px;
+}
+.first_square
+{
+	position:absolute;
+	float:left;
+	/*border:2px solid yellow;*/
+	height:500px;
+	width:550px;
+	margin-left:210px;
+}
+.second_box
+{
+	position:relative;
+	float:right;
+	/*border:2px solid green;*/
+	height:470px;
+	width:600px;
+	margin-right:173px;
+}
+.image_container
+{
+	/*border:2px solid purple;*/
+	width:550px;
+	height:450px;
+	/*margin-top:10px;*/
+}
+
+.picture_resolution img
+{
+	position:relative;
+	height:488px;
+}
+.girl_fixation img
+{
+	position:absolute;
+	top:58px;
+	left:90px;
+	height:400px;
+	width:350px;
+	margin-left:10px;
+	object-fit:cover;
+}
+.quote_box
+{
+	
+	/*border:2px solid brown;*/
+	height:220px;
+	width:600px;
+	margin-top:140px;
+	
+	
+}
+.inverted img
+{
+	position:absolute;
+	margin-left:250px;
+	
+	height:70px;
+	width:80px;
+}
+.letter h4
+{
+	position:relative;
+	left:-70px;
+	font-size:23px;
+	margin-left:180px;
+	color:grey;
+}
+
+
+.letter h3
+{
+	margin-bottom:35px;
+	margin-left:105px;
+	font-family:verdana;
+}
+
+#special
+{
+	font-weight:normal;
+}
+
+.final_logo img
+{
+	height:100px;
+	width:350px;
+}
